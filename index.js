@@ -12,7 +12,7 @@ try {
 }
 
 // ✅ Group Info
-const GROUP_THREAD_ID = "686960737005064";
+const GROUP_THREAD_ID = "729835500084800";
 const LOCKED_GROUP_NAME = "DEVA SAURABH KI RAKHEL KE LADKE ID LAGA MC KAR COVER BAP KO";
 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
